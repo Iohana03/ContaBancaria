@@ -24,8 +24,9 @@ Aula 08	Métodos	Criação de métodos com e sem retorno
 3. Requisitos
 Para executar os códigos localmente, você precisará de:
 
-Java JDK 21+
-Eclipse ou STS
+https://www.oracle.com/br/java/technologies/downloads/#jdk21+
+
+https://eclipseide.org   ou   https://spring.io/tools
 
 4. Como Executar os projetos no Eclipse/STS
 
